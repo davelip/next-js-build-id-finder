@@ -66,8 +66,8 @@ Contributions are welcome! If you have ideas for improvements or find a bug, fee
 
 ## Privacy
 
-See the `Privacy.md` file for details.
+See the [Privacy](Privacy.md) file for details.
 
 ## License
 
-This project is licensed under the MIT License - see the `LICENSE` file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
