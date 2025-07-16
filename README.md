@@ -64,6 +64,10 @@ Contributions are welcome! If you have ideas for improvements or find a bug, fee
 4.  Push to the Branch (`git push origin feature/AmazingFeature`)
 5.  Open a Pull Request
 
+## Privacy
+
+See the `Privacy.md` file for details.
+
 ## License
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
