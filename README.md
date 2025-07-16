@@ -2,7 +2,7 @@
 
 A simple and lightweight Chrome extension to quickly find the `buildId` of a website built with Next.js.
 
-Release: 1.0 (Wed, 16 Jul 2025 09:40:03 GMT)
+Release: 1.0.1 (Wed, 16 Jul 2025 10:03:00 GMT)
 
 ## What it does
 
@@ -64,6 +64,10 @@ Contributions are welcome! If you have ideas for improvements or find a bug, fee
 4.  Push to the Branch (`git push origin feature/AmazingFeature`)
 5.  Open a Pull Request
 
+## Privacy
+
+See the [Privacy](PRIVACY.md) file for details.
+
 ## License
 
-This project is licensed under the MIT License - see the `LICENSE` file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
