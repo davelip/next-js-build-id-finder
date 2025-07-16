@@ -2,6 +2,8 @@
 
 A simple and lightweight Chrome extension to quickly find the `buildId` of a website built with Next.js.
 
+Release: 1.0 (Wed, 16 Jul 2025 09:40:03 GMT)
+
 ## What it does
 
 This extension adds a small icon to your Chrome toolbar. When you're on a Next.js-powered website, you can click the icon, press the "Find Build ID" button, and the extension will instantly retrieve and display the site's unique build identifier.
